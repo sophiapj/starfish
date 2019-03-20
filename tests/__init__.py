@@ -3,9 +3,7 @@
 
 '''
 @Author: sophiapj
-@Contact: sophiapj@163.com
-@File: __init__.py
+@Contact: sophiapj@163.com 
+@File: __init__.py.py
 @Desc:
 '''
-
-__version__ = '1.0.0'
