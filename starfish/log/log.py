@@ -4,8 +4,6 @@
 '''
 @Author: sophiapj
 @Contact: sophiapj@163.com 
-@File: configReader.py
+@File: log.py
 @Desc:
 '''
-
-
