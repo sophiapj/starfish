@@ -9,7 +9,7 @@
 '''
 
 import os
-from public.common.ReadConfigini import ReadConfigIni
+from ..public.common.ReadConfigini import ReadConfigIni
 
 #读取配置文件
 #获取configini的路径
